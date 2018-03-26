@@ -1,0 +1,64 @@
+Base confidence:  0.40    Budget: 20    Epsilon: 0.10   No. of runs: 1000
+-------------------------------------------------------------------
+Threshold: -0.50  correct/total: 82/ 136    Confidence: 0.60  CI: 33.82  Trials: 199000  Probability: 0.68000
+Threshold: -0.25  correct/total: 83/ 139    Confidence: 0.60  CI: 32.85  Trials: 199000  Probability: 0.69500
+Threshold: 0.00  correct/total: 83/ 137    Confidence: 0.61  CI: 34.31  Trials: 199000  Probability: 0.68500
+Threshold: 0.25  correct/total: 82/ 115    Confidence: 0.71  CI: 52.17  Trials: 199000  Probability: 0.57500
+Threshold: 0.50  correct/total: 72/ 82    Confidence: 0.88  CI: 79.67  Trials: 199000  Probability: 0.41000
+Threshold: 0.75  correct/total: 62/ 68    Confidence: 0.91  CI: 85.29  Trials: 199000  Probability: 0.34000
+Threshold: 1.00  correct/total: 46/ 49    Confidence: 0.94  CI: 89.80  Trials: 199000  Probability: 0.24500
+Threshold: 1.25  correct/total: 23/ 23    Confidence: 1.00  CI: 100.00  Trials: 199000  Probability: 0.11500
+Threshold: 1.50  correct/total: 10/ 10    Confidence: 1.00  CI: 100.00  Trials: 199000  Probability: 0.05000
+Threshold: 1.75  correct/total: 4/ 4    Confidence: 1.00  CI: 100.00  Trials: 199000  Probability: 0.02000
+Threshold: 2.00  correct/total: 2/ 2    Confidence: 1.00  CI: 100.00  Trials: 199000  Probability: 0.01000
+Base confidence:  0.40    Budget: 20    Epsilon: 0.20   No. of runs: 1000
+-------------------------------------------------------------------
+Threshold: -0.50  correct/total: 42/ 68    Confidence: 0.62  CI: 36.27  Trials: 100000  Probability: 0.68000
+Threshold: -0.25  correct/total: 42/ 68    Confidence: 0.62  CI: 36.27  Trials: 100000  Probability: 0.68000
+Threshold: 0.00  correct/total: 42/ 73    Confidence: 0.58  CI: 29.22  Trials: 100000  Probability: 0.73000
+Threshold: 0.25  correct/total: 42/ 51    Confidence: 0.82  CI: 70.59  Trials: 100000  Probability: 0.51000
+Threshold: 0.50  correct/total: 41/ 41    Confidence: 1.00  CI: 100.00  Trials: 100000  Probability: 0.41000
+Threshold: 0.75  correct/total: 36/ 36    Confidence: 1.00  CI: 100.00  Trials: 100000  Probability: 0.36000
+Threshold: 1.00  correct/total: 16/ 16    Confidence: 1.00  CI: 100.00  Trials: 100000  Probability: 0.16000
+Threshold: 1.25  correct/total: 4/ 4    Confidence: 1.00  CI: 100.00  Trials: 100000  Probability: 0.04000
+Base confidence:  0.40    Budget: 20    Epsilon: 0.30   No. of runs: 1000
+-------------------------------------------------------------------
+Threshold: -0.50  correct/total: 29/ 47    Confidence: 0.62  CI: 36.17  Trials: 66000  Probability: 0.70500
+Threshold: -0.25  correct/total: 29/ 49    Confidence: 0.59  CI: 31.97  Trials: 66000  Probability: 0.73500
+Threshold: 0.00  correct/total: 29/ 45    Confidence: 0.64  CI: 40.74  Trials: 66000  Probability: 0.67500
+Threshold: 0.25  correct/total: 29/ 30    Confidence: 0.97  CI: 94.44  Trials: 66000  Probability: 0.45000
+Threshold: 0.50  correct/total: 29/ 29    Confidence: 1.00  CI: 100.00  Trials: 66000  Probability: 0.43500
+Threshold: 0.75  correct/total: 27/ 27    Confidence: 1.00  CI: 100.00  Trials: 66000  Probability: 0.40500
+Threshold: 1.00  correct/total: 11/ 11    Confidence: 1.00  CI: 100.00  Trials: 66000  Probability: 0.16500
+Base confidence:  0.25    Budget: 20    Epsilon: 0.10   No. of runs: 1000
+-------------------------------------------------------------------
+Threshold: -0.50  correct/total: 42/ 128    Confidence: 0.33  CI: 10.42  Trials: 199000  Probability: 0.64000
+Threshold: -0.25  correct/total: 41/ 126    Confidence: 0.33  CI: 10.05  Trials: 199000  Probability: 0.63000
+Threshold: 0.00  correct/total: 41/ 119    Confidence: 0.34  CI: 12.61  Trials: 199000  Probability: 0.59500
+Threshold: 0.25  correct/total: 41/ 92    Confidence: 0.45  CI: 26.09  Trials: 199000  Probability: 0.46000
+Threshold: 0.50  correct/total: 33/ 51    Confidence: 0.65  CI: 52.94  Trials: 199000  Probability: 0.25500
+Threshold: 0.75  correct/total: 30/ 39    Confidence: 0.77  CI: 69.23  Trials: 199000  Probability: 0.19500
+Threshold: 1.00  correct/total: 17/ 20    Confidence: 0.85  CI: 80.00  Trials: 199000  Probability: 0.10000
+Threshold: 1.25  correct/total: 15/ 15    Confidence: 1.00  CI: 100.00  Trials: 199000  Probability: 0.07500
+Threshold: 1.50  correct/total: 8/ 8    Confidence: 1.00  CI: 100.00  Trials: 199000  Probability: 0.04000
+Threshold: 1.75  correct/total: 1/ 1    Confidence: 1.00  CI: 100.00  Trials: 199000  Probability: 0.00500
+Base confidence:  0.25    Budget: 20    Epsilon: 0.20   No. of runs: 1000
+-------------------------------------------------------------------
+Threshold: -0.50  correct/total: 21/ 69    Confidence: 0.30  CI: 7.25  Trials: 100000  Probability: 0.69000
+Threshold: -0.25  correct/total: 21/ 61    Confidence: 0.34  CI: 12.57  Trials: 100000  Probability: 0.61000
+Threshold: 0.00  correct/total: 21/ 68    Confidence: 0.31  CI: 7.84  Trials: 100000  Probability: 0.68000
+Threshold: 0.25  correct/total: 21/ 34    Confidence: 0.62  CI: 49.02  Trials: 100000  Probability: 0.34000
+Threshold: 0.50  correct/total: 20/ 20    Confidence: 1.00  CI: 100.00  Trials: 100000  Probability: 0.20000
+Threshold: 0.75  correct/total: 16/ 16    Confidence: 1.00  CI: 100.00  Trials: 100000  Probability: 0.16000
+Threshold: 1.00  correct/total: 10/ 10    Confidence: 1.00  CI: 100.00  Trials: 100000  Probability: 0.10000
+Threshold: 1.25  correct/total: 2/ 2    Confidence: 1.00  CI: 100.00  Trials: 100000  Probability: 0.02000
+Base confidence:  0.25    Budget: 20    Epsilon: 0.30   No. of runs: 1000
+-------------------------------------------------------------------
+Threshold: -0.50  correct/total: 14/ 38    Confidence: 0.37  CI: 15.79  Trials: 66000  Probability: 0.57000
+Threshold: -0.25  correct/total: 14/ 43    Confidence: 0.33  CI: 10.08  Trials: 66000  Probability: 0.64500
+Threshold: 0.00  correct/total: 14/ 43    Confidence: 0.33  CI: 10.08  Trials: 66000  Probability: 0.64500
+Threshold: 0.25  correct/total: 14/ 15    Confidence: 0.93  CI: 91.11  Trials: 66000  Probability: 0.22500
+Threshold: 0.50  correct/total: 14/ 14    Confidence: 1.00  CI: 100.00  Trials: 66000  Probability: 0.21000
+Threshold: 0.75  correct/total: 12/ 12    Confidence: 1.00  CI: 100.00  Trials: 66000  Probability: 0.18000
+Threshold: 1.00  correct/total: 9/ 9    Confidence: 1.00  CI: 100.00  Trials: 66000  Probability: 0.13500
+Threshold: 1.25  correct/total: 1/ 1    Confidence: 1.00  CI: 100.00  Trials: 66000  Probability: 0.01500
